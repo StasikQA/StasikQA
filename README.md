@@ -1,3 +1,12 @@
+Header
+
+About me
+
+Languages and Tools
+
+How to rech me
+
+
 - 👋 Hi, I’m @StasikQA
 - 👀 I’m interested in testing, reading, playing boardgames  
 - 🌱 I’m currently learning Python
