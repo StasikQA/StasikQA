@@ -9,8 +9,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-FFFFFF?style=for-the-badge&logo=Postman&logoColor=EC7103)
 
 ### How to reach me
-[![Telegram](https://img.shields.io/badge/-Telegram-03AED9?style=for-the-badge&logo=telegram&logoColor=FFFFFF)]
-(https://t.me/Svetlana_PSO)
+![Telegram](https://img.shields.io/badge/-Telegram-03AED9?style=for-the-badge&logo=telegram&logoColor=FFFFFF)
+https://t.me/Svetlana_PSO
 
 <!---
 StasikQA/StasikQA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
