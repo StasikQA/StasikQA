@@ -1,5 +1,7 @@
 ![Header](https://github.com/StasikQA/StasikQA/blob/main/assets/header.png)
 
+## I’m a Junior QA
+ 
 About me
 
 Languages and Tools
