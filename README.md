@@ -6,7 +6,7 @@
 ### Languages and Tools
 ![Git](https://img.shields.io/badge/-Git-DB1717?style=for-the-badge&logo=Git&logoColor=110101)
 ![Sql](https://img.shields.io/badge/-Sql-8FDBD1?style=for-the-badge&logo=mysql&logoColor=00648B)
-![Postman](https://img.shields.io/badge/-Postman-FFFFFF?style=for-the-badge&logo=Postman&logoColor=EC7103)
+![Postman](https://img.shields.io/badge/-Postman-F5E6D0?style=for-the-badge&logo=Postman&logoColor=EC7103)
 
 ### How to reach me
 ![Telegram](https://img.shields.io/badge/-Telegram-03AED9?style=for-the-badge&logo=telegram&logoColor=FFFFFF)
